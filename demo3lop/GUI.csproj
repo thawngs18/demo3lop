@@ -7,7 +7,7 @@
     <ProjectGuid>{19E455C7-C2B4-4CA3-8975-EB7A5844EFBF}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>demo3lop</RootNamespace>
-    <AssemblyName>demo3lop</AssemblyName>
+    <AssemblyName>GUI</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
